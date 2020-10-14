@@ -1,6 +1,7 @@
+
+
 var divhtml=document.getElementById("div_msg");
 var radio=document.getElementById("texto_n1");
-
 
 var boton=document.getElementById("boton_calcula");
 boton.addEventListener("click",radio_click);
