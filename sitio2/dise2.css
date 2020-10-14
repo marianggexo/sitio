@@ -2,3 +2,24 @@
 {
 	background-image:linear-gradient(to right, #E6BAFF , #F7BAFF, #FFBAF5 ); 
 }
+#cordenada1
+{
+	border-radius: 100px;
+}
+#cordenada2
+{
+	border-radius: 100px;
+}
+#boton_calcula
+{
+	 background-color: #DFDFDF;
+	 border-radius: 90px;
+	 font-size: 18px;
+	 cursor: pointer;
+}
+#regresar a
+{
+	 text-decoration: none;
+	 color: black;
+	 font-size: 18px;
+}
